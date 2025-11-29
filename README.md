@@ -60,4 +60,4 @@ Business Use: Helps find highly popular or trending restaurants
 
 I downloaded the Zomato dataset from Kaggle, cleaned it in Excel by removing duplicates, fixing missing values, and standardizing country and cuisine names. Then I prepared the data by creating new fields like rating categories and grouping key values. Using this cleaned dataset, I built pivot tables to analyze restaurant count, online delivery, table booking, cuisines, ratings, and customer votes. Next, I created visualizations such as bar, column, and donut charts, added interactive slicers, and designed a clean dashboard layout. Finally, I interpreted the insights to understand cuisine popularity, customer behavior, and market trends.
 
-https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/Screenshot%202025-11-29%20190612.png
+"C:\Users\shrut\OneDrive\Documents\Zomato Data Analysis Project\Screenshot 2025-11-29 190612.png"
