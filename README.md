@@ -52,7 +52,7 @@ KPI Purpose: Shows how actively customers engage with restaurants
 
 Business Use: Helps find highly popular or trending restaurants
 
--<a href=" https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/KPI-Analysis.xlsx"> View DAshboard<a/>
+-<a href=" https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/KPI-Analysis.xlsx"> View Dashboard<a/>
 
 ## Project Process (1 Paragraph)
 
