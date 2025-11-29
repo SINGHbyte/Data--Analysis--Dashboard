@@ -6,8 +6,6 @@ It covers restaurant performance, customer behavior, online delivery trends, cui
 
 -<a href="https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/Zomato%20Restuarant%20Data%20Analysis.xlsx">Dataset<a>
 
-📌 Key Questions & KPIs Used in This Project
-
 ## Below are the main business questions and KPIs (Key Performance Indicators) analyzed in the Zomato Restaurant Dashboard:
 
 1️⃣ Total Number of Restaurants
@@ -64,3 +62,16 @@ I downloaded the Zomato dataset from Kaggle, cleaned it in Excel by removing dup
 
 ![Zomato Dashboard](https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/Screenshot%202025-11-29%20190612.png)
 
+## Project Insights
+
+India has the highest number of restaurants, showing strong market presence and customer activity.
+Online delivery availability varies by country, with India showing the highest adoption compared to others.
+Top cuisines such as North Indian, Chinese, and Fast Food dominate customer preferences.
+Restaurants with higher ratings usually have more customer votes, showing a positive link between quality and engagement.
+Table booking is not widely available, which shows scope for improving reservation systems.
+Average cost for two varies significantly across countries, indicating different pricing strategies and market affordability.
+Ratings distribution shows most restaurants fall under the "Good to Very Good" category, indicating decent overall quality.
+
+## Final Conclusion
+
+This Zomato Restaurant Analysis project demonstrates how Excel can be used to clean data, build pivot tables, design dashboards, and extract meaningful business insights. The analysis highlights customer behavior, cuisine demand, restaurant performance, and delivery trends across different countries. These findings can help businesses improve online services, target high-demand cuisines, refine pricing strategies, and enhance customer satisfaction. Overall, the project shows the power of data-driven decisions in the food and restaurant industry.
