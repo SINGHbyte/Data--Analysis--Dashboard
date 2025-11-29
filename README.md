@@ -9,50 +9,32 @@ It covers restaurant performance, customer behavior, online delivery trends, cui
 ## Below are the main business questions and KPIs (Key Performance Indicators) analyzed in the Zomato Restaurant Dashboard:
 
 1️⃣ Total Number of Restaurants
-
 KPI Purpose: Understand market size and platform coverage
-
 Business Use: Helps identify the biggest markets for expansion
 
 2️⃣ Average Customer Rating
-
 KPI Purpose: Measure overall food quality and customer satisfaction
-
 Business Use: Identify countries/cuisines with low satisfaction
 
 3️⃣ Online Delivery Availability (%)
-
 KPI Purpose: Shows how many restaurants support online ordering
-
-https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/KPI-Analysis.xlsx
-
 Business Use: Helps improve delivery partnerships & expand services
 
 4️⃣ Table Booking Availability (%)
-
 KPI Purpose: Indicates how many restaurants offer reservation service
-
 Business Use: Helps estimate customer convenience and demand
 
 5️⃣ Top 10 Cuisines by Popularity
-
 KPI Purpose: Identify most-demanded food categories
-
 Business Use: Supports cuisine-focused marketing & promotions
 
 6️⃣ Average Cost for Two
-
 KPI Purpose: Understand pricing strategy across regions
-
 Business Use: Helps compare affordability and revenue potential
 
 7️⃣ Total Votes / Customer Engagement
-
 KPI Purpose: Shows how actively customers engage with restaurants
-
 Business Use: Helps find highly popular or trending restaurants
-
--<a href=" https://github.com/SINGHbyte/Data--Analysis--Dashboard/blob/main/KPI-Analysis.xlsx"> View Dashboard<a/>
 
 ## Project Process (1 Paragraph)
 
